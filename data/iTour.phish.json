@@ -1,0 +1,54 @@
+[
+  {"tourName":"New Years Eve 2016",
+    "shows": [
+      {
+        "showID": 1,
+        "date": "",
+        "venue":"Madison Square Garden",
+        "altName":"New York"
+      },
+      {
+        "showID": 2,
+        "date": "",
+        "venue":"Madison Square Garden",
+        "altName":"New York"
+      },
+      {
+        "showID": 3,
+        "date": "",
+        "venue":"Madison Square Garden",
+        "altName":"New York"
+      },
+      {
+        "showID": 4,
+        "date": "",
+        "venue":"Madison Square Garden",
+        "altName":"New York"
+      }
+    ]
+
+  },
+  {"tourName":"Phish en la Riviera",
+    "shows": [
+      {
+        "showID": 1,
+        "date": "",
+        "venue":"Barceló Maya Beach Resort",
+        "altName":"Riviera Maya"
+      },
+      {
+        "showID": 2,
+        "date": "",
+        "venue":"Barceló Maya Beach Resort",
+        "altName":"Riviera Maya"
+      },
+      {
+        "showID": 3,
+        "date": "",
+        "venue":"Barceló Maya Beach Resort",
+        "altName":"Riviera Maya"
+      }
+    ]
+
+  }
+]
