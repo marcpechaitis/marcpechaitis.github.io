@@ -143,7 +143,7 @@
     "14PhoneNbr": "804-612-1900",
     "15VenueURL": "http://thenationalva.com",
     "16SetlistURL": "http://allthings.umphreys.com/m/setlists/?date=2017-01-20",
-    "17SeatingURL": "http://theitourapp.com/data/GenAdm.jpg",
+    "17SeatingURL": "http://theitourapp.com/GenAdm.jpg",
     "18SuppressMapsVenue": false
   },
   {
@@ -164,7 +164,7 @@
     "14PhoneNbr": "804-612-1900",
     "15VenueURL": "http://thenationalva.com",
     "16SetlistURL": "http://allthings.umphreys.com/m/setlists/?date=2017-01-21",
-    "17SeatingURL": "http://theitourapp.com/data/GenAdm.jpg",
+    "17SeatingURL": "http://theitourapp.com/GenAdm.jpg",
     "18SuppressMapsVenue": false
   },
   {
@@ -206,7 +206,7 @@
     "14PhoneNbr": "203-867-2000",
     "15VenueURL": "http://collegestreetmusichall.com",
     "16SetlistURL": "http://allthings.umphreys.com/m/setlists/?date=2017-01-26",
-    "17SeatingURL": "http://theitourapp.com/data/GenAdm.jpg",
+    "17SeatingURL": "http://theitourapp.com/GenAdm.jpg",
     "18SuppressMapsVenue": false
   },
   {
@@ -269,7 +269,7 @@
     "14PhoneNbr": "585-484-1964",
     "15VenueURL": "http://anthologylive.com",
     "16SetlistURL": "http://allthings.umphreys.com/m/setlists/?date=2017-01-29",
-    "17SeatingURL": "http://theitourapp.com/data/GenAdm.jpg",
+    "17SeatingURL": "http://theitourapp.com/GenAdm.jpg",
     "18SuppressMapsVenue": false
   },
   {
@@ -416,7 +416,7 @@
     "14PhoneNbr": " ",
     "15VenueURL": "http://livefromthehive.com",
     "16SetlistURL": "http://allthings.umphreys.com/m/setlists/?date=2017-03-01",
-    "17SeatingURL": "http://theitourapp.com/data/GenAdm.jpg",
+    "17SeatingURL": "http://theitourapp.com/GenAdm.jpg",
     "18SuppressMapsVenue": false
   },
   {
@@ -437,7 +437,7 @@
     "14PhoneNbr": " ",
     "15VenueURL": "http://livefromthehive.com",
     "16SetlistURL": "http://allthings.umphreys.com/m/setlists/?date=2017-03-02",
-    "17SeatingURL": "http://theitourapp.com/data/GenAdm.jpg",
+    "17SeatingURL": "http://theitourapp.com/GenAdm.jpg",
     "18SuppressMapsVenue": false
   },
   {
@@ -458,7 +458,7 @@
     "14PhoneNbr": "406-728-2521",
     "15VenueURL": "http://thewilma.com",
     "16SetlistURL": "http://allthings.umphreys.com/m/setlists/?date=2017-03-03",
-    "17SeatingURL": "http://theitourapp.com/data/GenAdm.jpg",
+    "17SeatingURL": "http://theitourapp.com/GenAdm.jpg",
     "18SuppressMapsVenue": false
   },
   {
@@ -479,7 +479,7 @@
     "14PhoneNbr": "406-728-2521",
     "15VenueURL": "http://thewilma.com",
     "16SetlistURL": "http://allthings.umphreys.com/m/setlists/?date=2017-03-04",
-    "17SeatingURL": "http://theitourapp.com/data/GenAdm.jpg",
+    "17SeatingURL": "http://theitourapp.com/GenAdm.jpg",
     "18SuppressMapsVenue": false
   },
   {
@@ -500,7 +500,7 @@
     "14PhoneNbr": "801-355-5522",
     "15VenueURL": "http://depotslc.com",
     "16SetlistURL": "http://allthings.umphreys.com/m/setlists/?date=2017-03-09",
-    "17SeatingURL": "http://theitourapp.com/data/GenAdm.jpg",
+    "17SeatingURL": "http://theitourapp.com/GenAdm.jpg",
     "18SuppressMapsVenue": false
   },
   {
@@ -584,7 +584,7 @@
     "14PhoneNbr": "480-829-0607",
     "15VenueURL": "http://luckymanonline.com/",
     "16SetlistURL": "http://allthings.umphreys.com/m/setlists/?date=2017-03-16",
-    "17SeatingURL": "http://theitourapp.com/data/GenAdm.jpg",
+    "17SeatingURL": "http://theitourapp.com/GenAdm.jpg",
     "18SuppressMapsVenue": false
   },
   {
@@ -711,6 +711,111 @@
     "15VenueURL": "http://summercampfestival.com",
     "16SetlistURL": "http://allthings.umphreys.com/m/setlists/?date=2017-05-28",
     "17SeatingURL": "http://summercampfestival.com",
+    "18SuppressMapsVenue": false
+  },
+  {
+    "01Index": 31,
+    "02strDate": "6/30",
+    "02strDateYYYY": "2017",
+    "03strDateFull": "Fri, Jun 30",
+    "04Venue": "Red Rocks Amphitheatre",
+    "05AltName": "Red Rocks",
+    "06strShowTimes": "Show: 7:00p Doors 6:00p MDT",
+    "07Capacity": "with Stick Figure",
+    "08Address1": "18300 W Alameda Pkwy",
+    "09Address2": " ",
+    "10City": "Morrison",
+    "11State": "CO",
+    "12Postal": "80465",
+    "13Country": "USA",
+    "14PhoneNbr": "720-865-2494",
+    "15VenueURL": "http://redrocksonline.com",
+    "16SetlistURL": "http://allthings.umphreys.com/m/setlists/?date=2017-06-30",
+    "17SeatingURL": "http://s1.ticketm.net/tm/en-us/tmimages/venue/maps/mtn/26751s.gif",
+    "18SuppressMapsVenue": false
+  },
+  {
+    "01Index": 32,
+    "02strDate": "7/1",
+    "02strDateYYYY": "2017",
+    "03strDateFull": "Sat, Jul 1",
+    "04Venue": "Red Rocks Amphitheatre",
+    "05AltName": "Red Rocks",
+    "06strShowTimes": "Show: 7:00p Doors 6:00p MDT",
+    "07Capacity": "with Stick Figure",
+    "08Address1": "18300 W Alameda Pkwy",
+    "09Address2": " ",
+    "10City": "Morrison",
+    "11State": "CO",
+    "12Postal": "80465",
+    "13Country": "USA",
+    "14PhoneNbr": "720-865-2494",
+    "15VenueURL": "http://redrocksonline.com",
+    "16SetlistURL": "http://allthings.umphreys.com/m/setlists/?date=2017-07-01",
+    "17SeatingURL": "http://s1.ticketm.net/tm/en-us/tmimages/venue/maps/mtn/26751s.gif",
+    "18SuppressMapsVenue": false
+  },
+  {
+    "01Index": 33,
+    "02strDate": "7/2",
+    "02strDateYYYY": "2017",
+    "03strDateFull": "Sun, Jul 2",
+    "04Venue": "Red Rocks Amphitheatre",
+    "05AltName": "Red Rocks",
+    "06strShowTimes": "Show: 6:00p Doors 5:00p MDT",
+    "07Capacity": "with Stick Figure",
+    "08Address1": "18300 W Alameda Pkwy",
+    "09Address2": " ",
+    "10City": "Morrison",
+    "11State": "CO",
+    "12Postal": "80465",
+    "13Country": "USA",
+    "14PhoneNbr": "720-865-2494",
+    "15VenueURL": "http://redrocksonline.com",
+    "16SetlistURL": "http://allthings.umphreys.com/m/setlists/?date=2017-07-02",
+    "17SeatingURL": "http://s1.ticketm.net/tm/en-us/tmimages/venue/maps/mtn/26751s.gif",
+    "18SuppressMapsVenue": false
+  },
+  {
+    "01Index": 34,
+    "02strDate": "8/25",
+    "02strDateYYYY": "2017",
+    "03strDateFull": "Fri, Aug 25",
+    "04Venue": "Oak Ridge Farm",
+    "05AltName": "Lockn'",
+    "06strShowTimes": "Show: TBD",
+    "07Capacity": " ",
+    "08Address1": "1510 Diggs Mountain Road",
+    "09Address2": " ",
+    "10City": "Arrington",
+    "11State": "VA",
+    "12Postal": "22922",
+    "13Country": "USA",
+    "14PhoneNbr": " ",
+    "15VenueURL": "http://www.locknfestival.com",
+    "16SetlistURL": "http://allthings.umphreys.com/m/setlists/?date=2017-08-25",
+    "17SeatingURL": "http://www.locknfestival.com/wp-content/uploads/lockn_festivalMap_websiteImage_v14.png",
+    "18SuppressMapsVenue": false
+  },
+  {
+    "01Index": 35,
+    "02strDate": "8/26",
+    "02strDateYYYY": "2017",
+    "03strDateFull": "Sat, Aug 26",
+    "04Venue": "Oak Ridge Farm",
+    "05AltName": "Lockn'",
+    "06strShowTimes": "Show: TBD",
+    "07Capacity": " ",
+    "08Address1": "1510 Diggs Mountain Road",
+    "09Address2": " ",
+    "10City": "Arrington",
+    "11State": "VA",
+    "12Postal": "22922",
+    "13Country": "USA",
+    "14PhoneNbr": " ",
+    "15VenueURL": "http://www.locknfestival.com",
+    "16SetlistURL": "http://allthings.umphreys.com/m/setlists/?date=2017-08-26",
+    "17SeatingURL": "http://www.locknfestival.com/wp-content/uploads/lockn_festivalMap_websiteImage_v14.png",
     "18SuppressMapsVenue": false
   }
 ]
