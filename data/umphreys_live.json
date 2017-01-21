@@ -255,7 +255,7 @@
     "01Index": 10,
     "02strDate": "1/29",
     "02strDateYYYY": "2017",
-    "03strDateFull": "Sat, Jan 28",
+    "03strDateFull": "Sun, Jan 29",
     "04Venue": "Anthology",
     "05AltName": "Rochester",
     "06strShowTimes": "Show: 7:30p Doors: 6:30p EST",
@@ -290,7 +290,7 @@
     "14PhoneNbr": "616-356-2000",
     "15VenueURL": "http://thebob.com",
     "16SetlistURL": "http://allthings.umphreys.com/m/setlists/?date=2017-02-02",
-    "17SeatingURL": "hhttp://s1.ticketm.net/tm/en-us/tmimages/venue/maps/det/74529s.gif",
+    "17SeatingURL": "http://s1.ticketm.net/tm/en-us/tmimages/venue/maps/det/74529s.gif",
     "18SuppressMapsVenue": false
   },
   {
