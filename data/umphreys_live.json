@@ -447,7 +447,7 @@
     "03strDateFull": "Fri, Mar 3",
     "04Venue": "The Wilma",
     "05AltName": "Missoula",
-    "06strShowTimes": "Show: 8:00p Doors: 7:00p PST",
+    "06strShowTimes": "Show: 8:00p Doors: 7:00p MST",
     "07Capacity": "with Polecat",
     "08Address1": "131 S Higgins Ave",
     "09Address2": " ",
@@ -468,7 +468,7 @@
     "03strDateFull": "Sat, Mar 4",
     "04Venue": "The Wilma",
     "05AltName": "Missoula",
-    "06strShowTimes": "Show: 8:00p Doors: 7:00p PST",
+    "06strShowTimes": "Show: 8:00p Doors: 7:00p MST",
     "07Capacity": "with Polecat",
     "08Address1": "131 S Higgins Ave",
     "09Address2": " ",
@@ -489,7 +489,7 @@
     "03strDateFull": "Thu, Mar 9",
     "04Venue": "The Depot",
     "05AltName": "Salt Lake City",
-    "06strShowTimes": "Show: 9:00p Doors: 8:00p PST",
+    "06strShowTimes": "Show: 9:00p Doors: 8:00p MST",
     "07Capacity": "Capacity: 1200",
     "08Address1": "13 N 400 W South Temple",
     "09Address2": " ",
@@ -672,7 +672,7 @@
     "18SuppressMapsVenue": false
   },
   {
-    "01Index": 29,
+    "01Index": 30,
     "02strDate": "5/27",
     "02strDateYYYY": "2017",
     "03strDateFull": "Sat, May 27",
@@ -693,7 +693,7 @@
     "18SuppressMapsVenue": false
   },
   {
-    "01Index": 30,
+    "01Index": 31,
     "02strDate": "5/28",
     "02strDateYYYY": "2017",
     "03strDateFull": "Sun, May 28",
@@ -714,7 +714,7 @@
     "18SuppressMapsVenue": false
   },
   {
-    "01Index": 31,
+    "01Index": 32,
     "02strDate": "6/30",
     "02strDateYYYY": "2017",
     "03strDateFull": "Fri, Jun 30",
@@ -735,7 +735,7 @@
     "18SuppressMapsVenue": false
   },
   {
-    "01Index": 32,
+    "01Index": 33,
     "02strDate": "7/1",
     "02strDateYYYY": "2017",
     "03strDateFull": "Sat, Jul 1",
@@ -756,7 +756,7 @@
     "18SuppressMapsVenue": false
   },
   {
-    "01Index": 33,
+    "01Index": 34,
     "02strDate": "7/2",
     "02strDateYYYY": "2017",
     "03strDateFull": "Sun, Jul 2",
@@ -777,7 +777,7 @@
     "18SuppressMapsVenue": false
   },
   {
-    "01Index": 34,
+    "01Index": 35,
     "02strDate": "8/25",
     "02strDateYYYY": "2017",
     "03strDateFull": "Fri, Aug 25",
@@ -798,7 +798,7 @@
     "18SuppressMapsVenue": false
   },
   {
-    "01Index": 35,
+    "01Index": 36,
     "02strDate": "8/26",
     "02strDateYYYY": "2017",
     "03strDateFull": "Sat, Aug 26",
